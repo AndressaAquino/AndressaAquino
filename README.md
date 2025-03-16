@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Andressa Silva de Aquino!
 
-<!--
-**AndressaAquino/AndressaAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e desenvolvimento de software. Atualmente, atuo como **estagiária na área de dados em um banco**, onde estou adquirindo experiência prática em análise e manipulação de dados, além de expandir meu conhecimento em linguagens como Python, SQL e ferramentas de Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas habilidades
+
+- 🌐 Desenvolvimento Web: HTML, CSS, JavaScript, React  
+- 🛠️ Back-end: Node.js, PHP, C#, Java  
+- 🗄️ Banco de Dados: SQL, PL/SQL, Oracle  
+- 📈 Análise de Dados: Power BI, Python  
+- 🖥️ Versionamento: Git, GitHub  
+
+## 🎯 Objetivos
+
+Meu objetivo é me tornar uma **desenvolvedora full stack requisitada**, com foco em resolver problemas reais através da tecnologia. Também tenho o desejo de atuar em projetos internacionais e em empresas inovadoras que impactam o mercado.
+
+## 🎓 Educação
+
+- 📚 Análise e Desenvolvimento de Sistemas - 2º semestre  
+- 📜 Certificações Alura em JavaScript, React, PHP e Banco de Dados  
+
+## 🌎 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-aquino-840a8a2ab/)
+
+---
+
+✨ "Transformando ideias em código e dados em soluções!" ✨
+
